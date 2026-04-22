@@ -183,4 +183,4 @@ async def menu(ctx):
 async def on_ready():
     print(f'Judy: Online as {bot.user}')
 
-bot.run(os.getenv("TOKEN"))
+bot.run('MTQ5NjUzMjA0NzI2OTg1OTQxOA.GNBkCN.ExgtsyiOAHV43i7b9p2BBlgk2h1qcGvcXSyQN8')
